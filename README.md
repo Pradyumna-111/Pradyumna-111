@@ -32,7 +32,7 @@
 
 ```yaml
 role:       Junior AI Engineer @ Kayne Biosciences
-education:  B.Tech AIML · Vasavi College of Engineering · CGPA 8.01
+education:  B.Tech AIML · Vasavi College of Engineering · CGPA 8.11
 location:   Hyderabad, India
 status:     Final Year · Actively Seeking Full-Time Roles
 ```
